@@ -54,11 +54,8 @@ function Header () {
               <li className="nav-item">
                 <Link 
                   to="/"
-                  className={
-                    window.location.pathname === "/"
-                      ? "nav-link active"
-                      : "nav-link"
-                  }
+                  className={"nav-link"}
+                  activeClassName={"nav-link active"}
                 >
                   Home
                 </Link>
@@ -66,11 +63,8 @@ function Header () {
               <li className="nav-item">
                 <Link 
                   to="/about"
-                  className={
-                    window.location.pathname === "/about"
-                      ? "nav-link active"
-                      : "nav-link"
-                  }
+                  className={"nav-link"}
+                  activeClassName={"nav-link active"}
                 >
                   About
                 </Link>
@@ -78,11 +72,8 @@ function Header () {
               <li className="nav-item">
                 <Link 
                   to="/portfolio"
-                  className={
-                    window.location.pathname === "/portfolio"
-                      ? "nav-link active"
-                      : "nav-link"
-                  }
+                  className={"nav-link"}
+                  activeClassName={"nav-link active"}
                 >
                   Portfolio
                 </Link>

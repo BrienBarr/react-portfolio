@@ -11,14 +11,12 @@ class Portfolio extends Component {
 
   render(){
     return (
-      <div className="portfolio">
-
+      <div>
         <div className="row">
           <div className="col-lg-12">
             <h1>Portfolio</h1>
           </div>
         </div>
-
         <div className="row center">
           {this.state.projects.map(item => (
             <Project
@@ -31,7 +29,6 @@ class Portfolio extends Component {
             />
           ))}
         </div>
-
       </div>
     )
   }

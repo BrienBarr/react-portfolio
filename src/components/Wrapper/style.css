@@ -24,4 +24,7 @@
   margin-right: 10px;
 }
 
-
+.bio, .portfolio {
+  padding-bottom: 30px;
+  margin-bottom: 110px;
+}
