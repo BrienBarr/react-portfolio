@@ -1,10 +1,10 @@
 import React from "react";
 import headshot from "../../assets/images/headshot.jpg";
-import "./style.css"
+// import "./style.css"
 
 function Bio () {
   return (
-    <div className="bio">
+    <div>
       <div className="row">
         <div className="col-lg-12">
           <h1>About Me</h1>
