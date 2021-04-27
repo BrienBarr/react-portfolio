@@ -20,6 +20,7 @@ class Portfolio extends Component {
         <div className="row center">
           {this.state.projects.map(item => (
             <Project
+              key={item.projectName}
               projectName={item.projectName}
               image={item.image}
               deployed={item.deployed}
