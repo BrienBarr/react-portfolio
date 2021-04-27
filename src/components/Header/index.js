@@ -16,14 +16,9 @@ function Header () {
   return (
     <div>
       <header>
-
-
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark squeeze">
-          
-
           <span className="navbar-brand mb-1 h1">
             Brien Barr
-
             <a href="https://www.linkedin.com/in/brien-barr/" target="_blank" rel="noreferrer">
               <img src={LinkedInIcon} style={styles.icon} title="P. Brien Barr - LinkedIn" alt="P. Brien Barr - LinkedIn"/>
             </a>
@@ -31,8 +26,6 @@ function Header () {
               <img src={GitHubIcon} style={styles.icon} title="BrienBarr@Github" alt="BrienBarr@Github"/>
             </a>
           </span>
-          
-
           <button 
             className="navbar-toggler" 
             type="button" 
@@ -44,8 +37,6 @@ function Header () {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          
-
           <div 
             className="collapse navbar-collapse justify-content-end font-weight-bold" 
             id="navbarSupportedContent"
@@ -55,7 +46,7 @@ function Header () {
                 <Link 
                   to="/"
                   className={"nav-link"}
-                  activeClassName={"nav-link active"}
+                  activeclassname={"nav-link active"}
                 >
                   Home
                 </Link>
@@ -64,7 +55,7 @@ function Header () {
                 <Link 
                   to="/about"
                   className={"nav-link"}
-                  activeClassName={"nav-link active"}
+                  activeclassname={"nav-link active"}
                 >
                   About
                 </Link>
@@ -73,7 +64,7 @@ function Header () {
                 <Link 
                   to="/portfolio"
                   className={"nav-link"}
-                  activeClassName={"nav-link active"}
+                  activeclassname={"nav-link active"}
                 >
                   Portfolio
                 </Link>
@@ -89,12 +80,10 @@ function Header () {
               </li>
             </ul>
           </div>
-
         </nav>
-
       </header>
     </div>
   )
 }
 
-export default Header
+export default Header;
