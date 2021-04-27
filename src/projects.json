@@ -16,14 +16,6 @@
     "repository": "https://github.com/BrienBarr/Weather-Dashboard"
   },
   {
-    "projectName": "Eat-Da-Burger!",
-    "image": "./assets/images/burger.png",
-    "deployed": "https://damp-lowlands-96896.herokuapp.com/",
-    "repoHost": "GitHub",
-    "repoName": "BrienBarr/burger",
-    "repository": "https://github.com/BrienBarr/burger"
-  },
-  {
     "projectName": "TravelR",
     "image": "./assets/images/travelr.png",
     "deployed": "https://projectll.herokuapp.com/",
@@ -46,5 +38,13 @@
     "repoHost": "GitHub",
     "repoName": "BrienBarr/Offline-Budget-Tracker",
     "repository": "https://github.com/BrienBarr/Offline-Budget-Tracker"
+  },
+  {
+    "projectName": "Employee Directory",
+    "image": "./assets/images/employee-directory.png",
+    "deployed": "https://brienbarr.github.io/employee-directory/",
+    "repoHost": "GitHub",
+    "repoName": "BrienBarr/employee-directory",
+    "repository": "https://github.com/BrienBarr/employee-directory"
   }
 ]
