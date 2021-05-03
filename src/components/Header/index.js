@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import LinkedInIcon from "../../assets/images/linkedin.png";
 import GitHubIcon from "../../assets/images/github.png";
-import Resume from "../../assets/docs/Brien_Barr-Resume.pdf";
+import Resume from "../../assets/Brien_Barr-Resume.pdf";
 
 const styles = {
   icon: {
