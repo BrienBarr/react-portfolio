@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.42233303.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.c3d4b2d1.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c3d4b2d1.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7249ecf5.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7249ecf5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ac01e3ee.chunk.js": "/react-portfolio/static/js/2.ac01e3ee.chunk.js",
+    "static/js/2.ac01e3ee.chunk.js.map": "/react-portfolio/static/js/2.ac01e3ee.chunk.js.map",
+    "static/js/3.e1e8c21f.chunk.js": "/react-portfolio/static/js/3.e1e8c21f.chunk.js",
+    "static/js/3.e1e8c21f.chunk.js.map": "/react-portfolio/static/js/3.e1e8c21f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.42233303.chunk.css.map": "/react-portfolio/static/css/main.42233303.chunk.css.map",
+    "static/js/2.ac01e3ee.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ac01e3ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-portfolio/static/media/3.f60cfac8.jpg",
+    "static/media/Brien_Barr-Resume.36bd4b8d.pdf": "/react-portfolio/static/media/Brien_Barr-Resume.36bd4b8d.pdf",
+    "static/media/headshot.cc4f9702.jpg": "/react-portfolio/static/media/headshot.cc4f9702.jpg",
+    "static/media/linkedin.b7e43945.png": "/react-portfolio/static/media/linkedin.b7e43945.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7249ecf5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ac01e3ee.chunk.js",
+    "static/css/main.42233303.chunk.css",
+    "static/js/main.c3d4b2d1.chunk.js"
+  ]
+}
