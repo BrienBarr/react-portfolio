@@ -6,7 +6,7 @@ class About extends Component {
   render() {
     return (
       <div>
-        <Bio />
+        <Bio className="bio"/>
       </div>
     );
   }

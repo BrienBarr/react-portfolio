@@ -1,0 +1,50 @@
+[
+  {
+    "projectName": "Food Drinks Jokes",
+    "image": "./assets/images/proj1.png",
+    "deployed": "https://devoyno.github.io/food_drinks_jokes/",
+    "repoHost": "GitHub",
+    "repoName": "Devoyno/food_drinks_jokes",
+    "repository": "https://github.com/Devoyno/food_drinks_jokes"
+  },
+  {
+    "projectName": "Weather Dashboard",
+    "image": "./assets/images/weather.PNG",
+    "deployed": "https://brienbarr.github.io/Weather-Dashboard/",
+    "repoHost": "GitHub",
+    "repoName": "BrienBarr/Weather-Dashboard",
+    "repository": "https://github.com/BrienBarr/Weather-Dashboard"
+  },
+  {
+    "projectName": "TravelR",
+    "image": "./assets/images/travelr.png",
+    "deployed": "https://projectll.herokuapp.com/",
+    "repoHost": "GitHub",
+    "repoName": "Almostalantern/TravelR",
+    "repository": "https://github.com/Almostalantern/TravelR"
+  },
+  {
+    "projectName": "Workout Tracker",
+    "image": "./assets/images/workout-tracker.png",
+    "deployed": "https://protected-dusk-68194.herokuapp.com/",
+    "repoHost": "GitHub",
+    "repoName": "BrienBarr/Workout-Tracker",
+    "repository": "https://github.com/BrienBarr/Workout-Tracker"
+  },
+  {
+    "projectName": "Budget Tracker",
+    "image": "./assets/images/budget-tracker.png",
+    "deployed": "https://secure-inlet-09030.herokuapp.com/",
+    "repoHost": "GitHub",
+    "repoName": "BrienBarr/Offline-Budget-Tracker",
+    "repository": "https://github.com/BrienBarr/Offline-Budget-Tracker"
+  },
+  {
+    "projectName": "Employee Directory",
+    "image": "./assets/images/employee-directory.png",
+    "deployed": "https://brienbarr.github.io/employee-directory/",
+    "repoHost": "GitHub",
+    "repoName": "BrienBarr/employee-directory",
+    "repository": "https://github.com/BrienBarr/employee-directory"
+  }
+]

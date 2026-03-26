@@ -70,13 +70,22 @@ function Header () {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link 
+                <a
                   className="nav-link" 
-                    to={Resume} 
-                    target="_blank"
+                    href={Resume} 
+                    target="_blank" 
+                    rel="noreferrer"
                 >
                   Resume
-                </Link>
+                </a>
+                {/* <Link
+                  className="nav-link" 
+                    to={Resume} 
+                    target="_blank" 
+                    rel="noreferrer"
+                >
+                  Resume
+                </Link> */}
               </li>
             </ul>
           </div>
